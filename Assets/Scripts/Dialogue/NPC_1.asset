@@ -15,4 +15,16 @@ MonoBehaviour:
   actor: {fileID: 4592560535447434129, guid: 41860d7b0b981fd4badb73cec836ac5c, type: 3}
   speakerSprite: {fileID: 0}
   sentence: 
-  dialogues: []
+  dialogues:
+  - actorName: 
+    profile: {fileID: -8091321643688609963, guid: dcf98e30437aab7448baf07db87c0fdd, type: 3}
+    sentence:
+      portuguese: Aoba!
+      english: 
+      spanish: 
+  - actorName: 
+    profile: {fileID: -8091321643688609963, guid: dcf98e30437aab7448baf07db87c0fdd, type: 3}
+    sentence:
+      portuguese: "B\xE3o?"
+      english: 
+      spanish: 
