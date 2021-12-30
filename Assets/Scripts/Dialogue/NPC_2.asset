@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fc0b90ef38004a499406e3da48b8a61, type: 3}
+  m_Name: NPC_2
+  m_EditorClassIdentifier: 
+  actor: {fileID: 671345636012479568, guid: ea88672f2539ea64ba0d6440be03ee5a, type: 3}
+  speakerSprite: {fileID: 4774605761260637296, guid: 6fb36cb746bbd4c42a79a4165cf7c1d2, type: 3}
+  sentence: 
+  dialogues:
+  - actorName: NPC 2
+    profile: {fileID: 4774605761260637296, guid: 6fb36cb746bbd4c42a79a4165cf7c1d2, type: 3}
+    sentence:
+      portuguese: "Pera a\xED, to passando mal!"
+      english: Wait a minute, i'm not good!
+      spanish: "Yo no estoy bi\xE9n!"
